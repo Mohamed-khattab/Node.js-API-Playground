@@ -26,4 +26,3 @@ To get started with the Notes App API, simply navigate to the `app-notes` folder
 
 If you want to contribute to this repository,Feel free to submit a pull request with your changes or open an issue if you find a bug or have a suggestion for improvement.
 
-Thank you for checking out my Node.js API Learning Repository!
