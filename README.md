@@ -12,22 +12,18 @@ Feel free to explore, clone, and modify any of the projects in this repository. 
 
 ### Book App API
 
-The Book App API allows users to search for and retrieve information about books. It uses the Google Books API to search for books by title, author, or keyword, and returns information such as the book's title, author, and cover image. The API also allows users to create, update, and delete book entries in a PostgreSQL database with multiple stores.
+The Book App API allows users to create, read, update, and delete books and stores in a PostgreSQL database. Users can also add multiple books to a store, retrieve all books in a store, and search for books by title or author.
 
-To get started with the Book App API, simply navigate to the `book-app-api` folder and follow the instructions in the README file.
+To get started with the Book App API, simply navigate to the `app-book` folder and follow the instructions in the README file.
 
 ### Notes App API
 
-The Notes App API allows users to create, update, and delete notes in a local memstorage. It uses the Express framework to handle HTTP requests, and includes support for creating and managing user accounts with secure password authentication.
+The Notes App API allows users to create, read, update, and delete notes in a local memstorage. The API is built using the Express framework and does not include authentication or encryption features.
 
-To get started with the Notes App API, simply navigate to the `notes-app-api` folder and follow the instructions in the README file.
+To get started with the Notes App API, simply navigate to the `app-notes` folder and follow the instructions in the README file.
 
 ## Contributions
 
-If you want to contribute to this repository, please follow the standard guidelines for contributing to open source projects. Feel free to submit a pull request with your changes or open an issue if you find a bug or have a suggestion for improvement.
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+If you want to contribute to this repository,Feel free to submit a pull request with your changes or open an issue if you find a bug or have a suggestion for improvement.
 
 Thank you for checking out my Node.js API Learning Repository!
