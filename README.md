@@ -21,6 +21,8 @@ To get started with the Book App API, simply navigate to the `app-book` folder a
 The Notes App API allows users to create, read, update, and delete notes in a local memstorage. The API is built using the Express framework and does not include authentication or encryption features.
 
 To get started with the Notes App API, simply navigate to the `app-notes` folder and follow the instructions in the README file.
+### Node.Js-Authentication-System
+The Node.js Authentication System is designed to handle user registration, login, and logout functionalities for web applications. users can create accounts, log in securely, and maintain their sessions until they choose to log out. The system also incorporates password hashing to ensure the protection of user credentials. 
 
 ## Contributions
 
